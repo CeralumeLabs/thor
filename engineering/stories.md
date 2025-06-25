@@ -3,11 +3,11 @@
 * As a **Visionary Leader**, I want to **view a dashboard of all submitted ideas** so that I can get a high-level overview of the innovation pipeline.
 * As a **Visionary Leader**, I want to **see the total number of participants** so that I can gauge employee engagement in the competition.
 * As a **Visionary Leader**, I want to **view the top-scoring ideas from the latest round** so that I can quickly identify promising innovations.
-* As a **Visionary Leader**, I want to **access a summary report of competition progress** so that I can understand its overall impact.
+* As a **Visionary Leader**, I want to **access a summary report of competition progress** so that I can understand its overall impact. - venkat
 
 ---
 
-### Financial Strategist (CFO/Finance Team Lead) Stories
+### Financial Strategist (CFO/Finance Team Lead) Stories - Sumit
 
 * As a **Financial Strategist**, I want to **view the budget requested for each idea in the final round** so that I can assess their financial viability.
 * As a **Financial Strategist**, I want to **see a breakdown of estimated costs for a selected project** so that I can understand resource allocation.
@@ -16,7 +16,7 @@
 
 ---
 
-### Competition Administrator (HR Team Lead) Stories
+### Competition Administrator (HR Team Lead) Stories - Pallavi
 
 * As a **Competition Administrator**, I want to **create and name a new innovation competition** so that I can set up the basic structure.
 * As a **Competition Administrator**, I want to **define the number of rounds for a competition** so that I can structure the evaluation process.
@@ -29,7 +29,7 @@
 
 ---
 
-### Technical Gatekeeper (CTO/Tech Lead) Stories
+### Technical Gatekeeper (CTO/Tech Lead) Stories - Sunit
 
 * As a **Technical Gatekeeper**, I want to **view the technical details submitted with an idea** so that I can assess its feasibility.
 * As a **Technical Gatekeeper**, I want to **provide a technical feasibility score for an idea** so that it can be evaluated against criteria.
@@ -38,7 +38,7 @@
 
 ---
 
-### Market Insight Analyst (Marketing Team Lead) Stories
+### Market Insight Analyst (Marketing Team Lead) Stories - Sumit
 
 * As a **Market Insight Analyst**, I want to **view the market potential section of an idea submission** so that I can understand its proposed market fit.
 * As a **Market Insight Analyst**, I want to **provide a market potential score for an idea** so that its market viability can be assessed.
@@ -47,7 +47,7 @@
 
 ---
 
-### Idea Submitter (Employee Participant) Stories
+### Idea Submitter (Employee Participant) Stories - Pallavi
 
 * As an **Idea Submitter**, I want to **register for an innovation competition** so that I can participate.
 * As an **Idea Submitter**, I want to **submit a new idea with a title and description** so that I can enter the competition.
@@ -58,7 +58,7 @@
 
 ---
 
-### Panel Reviewer (Cross-Functional Panel Member) Stories
+### Panel Reviewer (Cross-Functional Panel Member) Stories - Sumit
 
 * As a **Panel Reviewer**, I want to **view a list of ideas assigned to me for review** so that I know what I need to evaluate.
 * As a **Panel Reviewer**, I want to **access all submission artifacts (description, files) for an idea** so that I can perform a comprehensive review.
@@ -68,7 +68,7 @@
 
 ---
 
-### System Administrator (IT Team) Stories
+### System Administrator (IT Team) Stories - Pallavi
 
 * As a **System Administrator**, I want to **create new user accounts** so that employees can access the platform.
 * As a **System Administrator**, I want to **assign specific roles (e.g., Visionary Leader, Panel Reviewer) to users** so that they have appropriate access.
