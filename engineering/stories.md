@@ -29,7 +29,7 @@
 
 ---
 
-### Technical Gatekeeper (CTO/Tech Lead) Stories - Sunit
+### Technical Gatekeeper (CTO/Tech Lead) Stories - Sumit
 
 * As a **Technical Gatekeeper**, I want to **view the technical details submitted with an idea** so that I can assess its feasibility.
 * As a **Technical Gatekeeper**, I want to **provide a technical feasibility score for an idea** so that it can be evaluated against criteria.
